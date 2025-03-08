@@ -1,4 +1,6 @@
 ﻿# Understanding-Symfony
+# Start the Symfony Server
+symfony server:start
 # Install Twing
 composer require symfony/twig-bundle
 # Generate a Controller
